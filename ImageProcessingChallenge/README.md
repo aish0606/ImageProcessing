@@ -33,6 +33,10 @@ Image Processing Techniques covered in the code
 6. Change saturation level of the image
 7. Composite operation: This operation composites the top image over the base image, using the alpha channel of the top image as a mask.
 
+Result
+==================================
+![alt text](https://github.com/aish0606/ImageProcessing/blob/main/ImageProcessingChallenge/result.PNG)
+
 References
 ======================================
 1. http://www.graficaobscura.com/interp/index.html
